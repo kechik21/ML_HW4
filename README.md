@@ -187,7 +187,7 @@ Skip Connections იძლევა საუკეთესო შედეგ�
 - **Regularization Report**: [ Report](https://wandb.ai/kechik21-free-university-of-tbilisi-/regularization_exp/reports/FER2013-Facial-Expression-Recognition-Regularization-Model-Analysis--VmlldzoxMzEwOTI3Ng?accessToken=cvzrynkepzwmippufwzd21808d16bpra5odzcvs8uvj7i8y14ypyklb3uyvj1qsl)
 
 
--**Model Depth Report**: [ Report](https://wandb.ai/kechik21-free-university-of-tbilisi-/depth_experiment/reports/FER2013-Facial-Expression-Recognition-Depth-Model-Analysis--VmlldzoxMzEwODkwNA?accessToken=68evwzjbbuwvht3ywjtqw7h7hqtban7xakg1cllohygdw6xk5p3im5ds0mvyo459)
+- **Model Depth Report**: [ Report](https://wandb.ai/kechik21-free-university-of-tbilisi-/depth_experiment/reports/FER2013-Facial-Expression-Recognition-Depth-Model-Analysis--VmlldzoxMzEwODkwNA?accessToken=68evwzjbbuwvht3ywjtqw7h7hqtban7xakg1cllohygdw6xk5p3im5ds0mvyo459)
 
 
 რადგან თიმსით მქონდა შექმნილი პროექტები, მოგიწვიეთ თიმსში...
